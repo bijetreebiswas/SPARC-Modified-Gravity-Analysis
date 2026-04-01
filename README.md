@@ -1,6 +1,6 @@
 # SPARC Modified Gravity Analysis
 
-This project extends the work of Dutta & Islam (2019) — *Testing Modified Gravity Theories with the Radial Acceleration Relation in the Milky Way* — to the full SPARC sample of 175 disk galaxies. It computes observed, baryonic, and predicted accelerations under Newtonian gravity, MOND, and Weyl conformal gravity, reproducing the Radial Acceleration Relation (RAR) and Halo Acceleration Relation (HAR) for the entire sample.
+This project extends the work of Dutta & Islam (2020) — *Testing Modified Gravity Theories with the Radial Acceleration Relation in the Milky Way* — to the full SPARC sample of 175 disk galaxies. It computes observed, baryonic, and predicted accelerations under Newtonian gravity, MOND, and Weyl conformal gravity, reproducing the Radial Acceleration Relation (RAR) and Halo Acceleration Relation (HAR) for the entire sample.
 
 ## Features
 
