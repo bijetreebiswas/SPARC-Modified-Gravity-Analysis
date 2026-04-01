@@ -32,3 +32,8 @@ Place all files in the same directory and update the `data_path` variable in the
 - pandas
 - scipy
 
+## Results
+<img width="825" height="683" alt="image" src="https://github.com/user-attachments/assets/43a2889a-2c8d-4a77-bc04-8bc583b9b376" />
+<img width="774" height="563" alt="image" src="https://github.com/user-attachments/assets/47aa8a94-c9bc-474f-afaa-cc316ea02174" />
+<img width="826" height="683" alt="image" src="https://github.com/user-attachments/assets/578366a2-c5df-4ed1-92d5-7809bee3755c" />
+
